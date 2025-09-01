@@ -21,7 +21,7 @@ Users are able to check their progress, missed days and streaks for analytic pur
 ## Installations
 To start and run the habit tracker app
 - Clone the repository: git clone https://github.com/Thabo2012/IU-Habit-tracker
-  pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Usage
 - Run python3 or above main.py to start the CLI
