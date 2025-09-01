@@ -36,7 +36,7 @@ To start and run the habit tracker app
 
 ## Tests
 
-Run pytest . test suit to start the testing unctions included in the modules and classes
+Run pytest . Start the testing functions included in the modules and classes
 
 # App/project structure
 
