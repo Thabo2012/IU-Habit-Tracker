@@ -48,11 +48,11 @@ Run pytest . test suit to start the testing unctions included in the modules and
 
 ├── tracker_analysis -- contains functions to analyse the user performance
 
-├── test_tracker.py--- test unit functions
+├── Unit test--- test unit functions
 
-│ ├── test_analysis.py
+│ ├── test_analysis.py --- Test analytical functions
 
-│ └── test_db.py
+│ └── test_tracker.py --- Test module functions, excluding analytics
 
 ├── tracker_requirements.txt --- list all tools to build the tracker
 
