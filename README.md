@@ -24,7 +24,7 @@ To start and run the habit tracker app
 - pip install -r requirements.txt
 
 ## Usage
-- Run python3 or above main.py to start the CLI
+- Run python3 or above. Run main.py to start the CLI
 - Foloow the instruction on the "menu screen" and choose one of the choices
 - Example
   - List habits
